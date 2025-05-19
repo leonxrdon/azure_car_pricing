@@ -83,4 +83,8 @@ flask run
 
 La aplicación estará disponible en: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
+![formulario](https://github.com/user-attachments/assets/80861d9f-5574-4fb6-ac4b-17f61f0782f1)
+
+
+
 ---
